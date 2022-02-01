@@ -1,4 +1,4 @@
-package com.example.myapplication.login
+package com.example.composeLogin.login
 
 import androidx.annotation.StringRes
 

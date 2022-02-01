@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.composeLogin
 
 import org.junit.Test
 

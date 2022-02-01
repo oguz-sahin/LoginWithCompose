@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.composeLogin
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,8 +9,8 @@ import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.myapplication.login.LoginScreen
-import com.example.myapplication.ui.theme.MyApplicationTheme
+import com.example.composeLogin.login.LoginScreen
+import com.example.composeLogin.ui.theme.MyApplicationTheme
 
 
 class MainActivity : ComponentActivity() {

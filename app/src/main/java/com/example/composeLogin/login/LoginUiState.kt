@@ -1,4 +1,4 @@
-package com.example.myapplication.login
+package com.example.composeLogin.login
 
 
 data class LoginUiState(

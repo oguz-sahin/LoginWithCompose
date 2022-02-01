@@ -1,6 +1,6 @@
-package com.example.myapplication.login
+package com.example.composeLogin.login
 
-import com.example.myapplication.Validation
+import com.example.composeLogin.Validation
 
 
 @JvmInline

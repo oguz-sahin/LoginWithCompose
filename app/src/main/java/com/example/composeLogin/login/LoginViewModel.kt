@@ -1,9 +1,9 @@
-package com.example.myapplication.login
+package com.example.composeLogin.login
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.myapplication.login.LoginScreenUiEffect.NavigateToOtherScreen
-import com.example.myapplication.login.LoginScreenUiEffect.ShowValidationError
+import com.example.composeLogin.login.LoginScreenUiEffect.NavigateToOtherScreen
+import com.example.composeLogin.login.LoginScreenUiEffect.ShowValidationError
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow

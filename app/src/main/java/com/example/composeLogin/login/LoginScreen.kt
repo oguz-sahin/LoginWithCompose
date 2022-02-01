@@ -1,4 +1,4 @@
-package com.example.myapplication.login
+package com.example.composeLogin.login
 
 
 import android.widget.Toast
@@ -27,8 +27,8 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.myapplication.R
-import com.example.myapplication.login.LoginScreenUiEffect.ShowValidationError
+import com.example.composeLogin.R
+import com.example.composeLogin.login.LoginScreenUiEffect.ShowValidationError
 import kotlinx.coroutines.flow.collectLatest
 
 

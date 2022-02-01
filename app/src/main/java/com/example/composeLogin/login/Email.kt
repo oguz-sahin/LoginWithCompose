@@ -1,7 +1,7 @@
-package com.example.myapplication.login
+package com.example.composeLogin.login
 
 import android.util.Patterns.EMAIL_ADDRESS
-import com.example.myapplication.Validation
+import com.example.composeLogin.Validation
 
 @JvmInline
 value class Email(val value: String) : Validation {
