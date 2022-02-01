@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password_empty_error">"Password must not be empty. "</string>
+    <string name="password_char_error">Password must be at least 6 character.</string>
+    <string name="email_empty_error">Email must not be empty.</string>
+    <string name="wrong_email_format_error">Please enter valid email.</string>
+    <string name="email_placeholder">Enter Email…</string>
+    <string name="password_placeholder">Enter Password…</string>
+</resources>
